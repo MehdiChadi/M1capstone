@@ -2,7 +2,7 @@
 
 ## Research question
 
-Are energy inefficient dwellings concentrated in poorer neighberhods?
+Are energy inefficient dwellings concentrated in poorer neighbourhods?
 
 Deeper version:
 Can housing stocks and characteristics shape the distribution of low energy performance dwellings in France?
